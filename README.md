@@ -179,10 +179,10 @@ Example response from the API reference, abridged — real values depend on the 
     }
   ],
   "seller": {
-    "name": "AAA PCs Store",
-    "feedback": "8442",
-    "thumbnail": "https://i.ebayimg.com/images/g/hBUAAOSw6WZndu3y/s-l64.jpg",
-    "positive_feedback_percent": 100
+    "name": "example",
+    "feedback": "example",
+    "thumbnail": "example",
+    "positive_feedback_percent": 0
   },
   "item_id": "336517253224",
   "returns": {
@@ -373,9 +373,9 @@ Example response from the API reference, abridged — real values depend on the 
       "title": "Dell Latitude 5520 i5 15.6\" Touchscreen Laptop 16GB 512GB SSD Win 11 Pro",
       "rating": null,
       "seller": {
-        "name": "aaa_pcs",
-        "feedback": "8.4K",
-        "positive_feedback_percent": 100
+        "name": "example",
+        "feedback": "example",
+        "positive_feedback_percent": 0
       },
       "item_id": "336517253224",
       "reviews": null,
