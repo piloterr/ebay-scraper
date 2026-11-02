@@ -70,7 +70,7 @@ response = requests.get(
     params={
         "query": "257758922911",
     },
-    timeout=60,
+    timeout=120,
 )
 response.raise_for_status()
 data = response.json()
@@ -280,7 +280,7 @@ response = requests.get(
     params={
         "query": "laptop",
     },
-    timeout=60,
+    timeout=120,
 )
 response.raise_for_status()
 data = response.json()
